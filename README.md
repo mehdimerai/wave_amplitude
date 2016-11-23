@@ -1,5 +1,5 @@
 # wave_amplitude
-Convert a batch of WAVE files into CSV Amplitude files
+Convert a batch of WAVE files into CSV Amplitude files using Numpy, Python. This work could be helpful for people working around signal processing and looking for a Mathlab open source alternative for this specific function.
 
 # tutorial
 
