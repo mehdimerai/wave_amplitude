@@ -18,7 +18,8 @@ CurrentFolder
 python convert.py
 ```
 
-##Result
+##Results
+The execution result will be displayed your Terminal as follow
 
 ```
 WAVE ---> CSV
@@ -29,3 +30,5 @@ BATCH SIZE = 4
  Converting File9.wav ---> File9.csv: DONE - 4 / 4 completed
 THE 4 FILES BATCH PROCESSING LASTED 0.524949073792 SECONDS.
 ```
+
+Then, you will find your amplitude files under the folder csv.
